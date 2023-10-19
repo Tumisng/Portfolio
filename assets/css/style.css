@@ -496,6 +496,16 @@ body {
     background-size: cover;
     min-height: 500px;
   }
+
+  .column-skills {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .row-skills {
+    flex: 10%;
+    padding: 3px;
+  }
   
   /*--------------------------------------------------------------
   # My Skills
